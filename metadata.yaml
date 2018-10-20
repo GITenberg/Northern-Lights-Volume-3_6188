@@ -1,5 +1,5 @@
 _repo: Northern-Lights-Volume-3_6188
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Short stories, Canadian'
 - !lcc 'PS'
 - !lcsh 'Canada, Northern -- Fiction'
+- GITenberg
 tableOfContents: When the swallows homeward fly -- George's wife -- Marcile.
 title: Northern Lights, Volume 3.
 url: http://www.gutenberg.org/ebooks/6188
